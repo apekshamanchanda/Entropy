@@ -210,12 +210,14 @@ li:hover{
     width: 60%;
     margin: auto;
     margin-top: 30vh;
+    margin-bottom:15vh;
     color: white;
     font-size: 18px;
     border: 2px solid white;
     padding: 16px;
     text-align:justify;
      box-shadow: 6px 6px 30px black;
+    
 
 }
 .about-me {
