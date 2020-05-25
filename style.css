@@ -235,6 +235,12 @@ li:hover{
         left: 10%;
     }
     .about-text{
-        width: 95%;
+        width: 90%;
     }
-  }
+    a{
+        margin-right:20px;
+     }
+    header{
+        width:95%;
+    }
+}
